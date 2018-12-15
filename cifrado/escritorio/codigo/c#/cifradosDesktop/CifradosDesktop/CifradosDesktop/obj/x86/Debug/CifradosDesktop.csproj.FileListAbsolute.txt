@@ -1,0 +1,6 @@
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/obj/x86/Debug/CifradosDesktop.csprojResolveAssemblyReference.cache
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/obj/x86/Debug/CifradosDesktop.csproj.CoreCompileInputs.cache
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/bin/Debug/CifradosDesktop.exe
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/bin/Debug/CifradosDesktop.pdb
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/obj/x86/Debug/CifradosDesktop.exe
+/home/giodev/Documents/cifradosDesktop/CifradosDesktop/CifradosDesktop/obj/x86/Debug/CifradosDesktop.pdb

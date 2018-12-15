@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FAE4A229-8DDD-4C81-884C-ECC411C4B2DC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CifradosDesktop/MainWindow.cs">
+    <Files>
+      <File FileName="CifradosDesktop/Program.cs" Line="15" Column="6" />
+      <File FileName="CifradosDesktop/MainWindow.cs" Line="152" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CifradosDesktop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

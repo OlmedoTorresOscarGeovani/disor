@@ -57,14 +57,14 @@ void Celulas::start(int r){
         break;
     }
 
-    /*glider*/
+    /*figura 1*/
     mundo->set(6,1,1);
     mundo->set(7,2,1);
     mundo->set(5,3,1);
     mundo->set(6,3,1);
     mundo->set(7,3,1);
 
-    /*blinker*/
+    /*figura 2*/
     mundo->set(1,3,1);
     mundo->set(2,3,1);
     mundo->set(3,3,1);

@@ -1,4 +1,10 @@
-<p align="center">
+
+<p> 1.- Para levantar el servidor, ejecutar  php yii serve</p>
+<p> 2.- Ir a (http://localhost:8080/index.php?r=site%2Fentry)</p>
+
+
+
+<!-- <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
@@ -230,4 +236,4 @@ vendor/bin/codecept run unit -- --coverage-html --coverage-xml
 vendor/bin/codecept run functional,unit -- --coverage-html --coverage-xml
 ```
 
-You can see code coverage output under the `tests/_output` directory.
+You can see code coverage output under the `tests/_output` directory. -->
